@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my site!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+In this website I will display everything in my life. From business to personal life, I hope you enojoy your visit here.
+
