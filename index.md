@@ -1,6 +1,8 @@
 ---
-title: "All about Alstin!"
+title: "Alstin"
 ---
 
-In this website I will display everything in my life. From business to personal life, I hope you enojoy your visit here.
+This is my body paragraph.
+
+What is this?
 
